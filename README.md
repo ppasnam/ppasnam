@@ -1,16 +1,27 @@
-### Hi there 👋
-
-<!--
-**ppasnam/ppasnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>![Ppasnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppasnam&show_icons=true&theme=dracula)
+>>👉 http://ppasnam.epizy.com
+>>
+>>👉 ppasnam@gmail.com
+>
+>
+>> Fields
+> - JavaScript
+> - Python
+> - C#
+> - Html
+> - Css
+> - Linux
+> - Equipment
+> - Game development
+> - Ethical hacking and methods
+> - Discord bot (discord.py)
+>>Services
+> - Ainfected usb 
+> - Bio website (front-end)
+> - Ethical hacking attacks and Tutorial
+> - Windows Forms app with C#
+> - Python Tool
+> - Discord bot with discord.py
+> - Hack tool
+> 
+> [Contact now](https://ppasnam.epizy.com/contact)
