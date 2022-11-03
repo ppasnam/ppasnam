@@ -24,4 +24,4 @@
 > - Discord bot with discord.py
 > - Hack tool
 > 
-> [Contact now](https://ppasnam.epizy.com/contact)
+> [Contact now](http://ppasnam.epizy.com/contact)
